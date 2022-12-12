@@ -1,6 +1,6 @@
 # DevOps Capstone Template
 
-## Build Status Badge
+## Status Badge
 
 ![Build Status](https://github.com/krudt/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
 
